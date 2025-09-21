@@ -9,8 +9,8 @@
 		<version>3.3.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jordancode</groupId>
-	<artifactId>plataformacine</artifactId>
+	<groupId>com.wantedbear</groupId>
+	<artifactId>wantedbear</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>plataformacine</name>
 	<description>Demo project for Spring Boot</description>
